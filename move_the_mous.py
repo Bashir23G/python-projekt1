@@ -38,6 +38,8 @@ screenshot = pyautogui.screenshot()
 #--------------
 
 
+#pip install pillow "it is used to image options
+
 from PIL import Image
 
 # Open an image file
